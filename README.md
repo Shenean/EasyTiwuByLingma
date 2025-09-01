@@ -12,7 +12,7 @@
 - **Vue 3**  
 - **Vite**  
 - **Naive UI**  
-- **Pinia / Vue Router**
+- **Vue Router**
 
 ### 后端
 - **JDK 17**  
@@ -20,14 +20,12 @@
 - **Spring Cloud Alibaba**（微服务支持）  
 - **Spring Security + OAuth2 + JWT**（认证鉴权）  
 - **MyBatis-Plus**（ORM 框架）  
-- **Redis**（缓存与会话管理）  
 
 ### 数据库
 - **MySQL 8.0**
 
 ### 构建与工具
 - **Maven 3.9.9**（依赖管理与构建）  
-- **Docker / Docker Compose**（容器化部署，支持 Nacos + MySQL + Redis）
 
 ---
 
@@ -37,7 +35,6 @@
 - JDK `>=17`
 - Maven `>=3.9.9`
 - MySQL `>=8.0`
-- Redis `>=6.0`
 
 ---
 
